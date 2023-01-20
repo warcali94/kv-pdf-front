@@ -1,0 +1,4 @@
+[
+    ["use-babel-config", ".babelrc.json"],
+    ["use-eslint-config", ".eslintrc.json"]
+  ]
